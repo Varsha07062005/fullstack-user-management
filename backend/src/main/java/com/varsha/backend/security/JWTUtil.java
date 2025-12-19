@@ -3,6 +3,10 @@ package com.varsha.backend.security;
 import java.nio.charset.StandardCharsets;
 import java.security.Key;
 import java.util.Date;
+import lombok.Getter;
+import lombok.Setter;
+import lombok.NoArgsConstructor;
+
 
 import org.springframework.stereotype.Component;
 
